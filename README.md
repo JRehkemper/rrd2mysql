@@ -4,6 +4,8 @@ This Tool uses the RRD Files From Smokeping and imports them into a SQL Database
 ## Prerequisite
 * Running Smokeping Service
 * Running SQL Database
+* rrdtool
+* mysql-connector-python
 
 ### Database Table Structure
 | Name      | Type      | Default             | Auto Increment |
